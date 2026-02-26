@@ -1,8 +1,8 @@
-## Hi 👋, I'm Vishal Singh Patel
+<h2> Hi 👋, I'm Vishal Singh Patel </h2>
 <br>
-A passionate frontend developer from <h3>India</h3>.
+<h3> A passionate frontend developer from India</h3>.
 <br>
-🔭 I’m currently working on a web project called <a href="https://mevishalpatel-s.github.io/the-novel-bazaar/"> The Novel Bazaar </a>.
+<h4> 🔭 I’m currently working on a web project called <a href="https://mevishalpatel-s.github.io/the-novel-bazaar/"> The Novel Bazaar </a>.</h4>
 
 
 <!--
