@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋, I'm Vishal Singh Patel
+<br>
+A passionate frontend developer from <h3>India</h3>.
+<br>
+🔭 I’m currently working on a web project called <a href="https://mevishalpatel-s.github.io/the-novel-bazaar/"> The Novel Bazaar </a>.
+
 
 <!--
 **mevishalpatel-s/mevishalpatel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
