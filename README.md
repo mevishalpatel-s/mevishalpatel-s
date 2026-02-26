@@ -1,8 +1,7 @@
 <h2> Hi 👋, I'm Vishal Singh Patel </h2>
-<br>
 <h3> A passionate frontend developer from India</h3>.
-<br>
 <h4> 🔭 I’m currently working on a web project called <a href="https://mevishalpatel-s.github.io/the-novel-bazaar/"> The Novel Bazaar </a>.</h4>
+<h4>👯 I’m looking to collaborate on <strong>Frontend Designing </strong></h4>
 
 
 <!--
