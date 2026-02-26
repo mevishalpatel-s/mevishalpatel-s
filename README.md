@@ -3,7 +3,7 @@
 <hr>
 <h4> 🔭 I’m currently working on a web project called <a href="https://mevishalpatel-s.github.io/the-novel-bazaar/" target="_blank"> The Novel Bazaar </a>.</h4>
 <h4>👯 I’m looking to collaborate on <a href="https://en.wikipedia.org/wiki/Front-end_web_development" target="_blank">Frontend Designing</a>.</h4>
-<h4>🤝 I’m looking for help with <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a> and <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>.</h4>
+<h4>🤝 I’m looking for help with building responsive web apps.</h4>
 <h4>🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript,</a> <a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank">Tailwind CSS, </a> and <a href="http://en.wikipedia.org/wiki/React_(software)">React.js</a>.</h4>
 <h4>💬 Ask me about <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a> and <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>.</h4>
 <h3>📫 How to reach me: <a href="mailto:vishalpsingh638700@gmail.com">vishalpsingh638700@gmail.com</a></h3>
