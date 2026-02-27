@@ -43,5 +43,9 @@
 <hr
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mevishalpatel-s&theme=tokyonight&cache_seconds=1800" alt="Vishal's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mevishalpatel-s&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mevishalpatel-s&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=8B949E" alt="GitHub Stats" />
 </p>
