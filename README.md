@@ -1,51 +1,30 @@
-<h2> Hi 👋, I'm Vishal Singh Patel </h2>
-<h3> A passionate frontend developer from India.</h3>
-<hr>
-<h4> 🔭 I’m currently working on a web project called <a href="https://mevishalpatel-s.github.io/the-novel-bazaar/" target="_blank"> The Novel Bazaar </a>.</h4>
-<h4>👯 I’m looking to collaborate on <a href="https://en.wikipedia.org/wiki/Front-end_web_development" target="_blank">Frontend Designing</a>.</h4>
-<h4>🤝 I’m looking for help with building responsive web apps.</h4>
-<h4>🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript,</a> <a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank">Tailwind CSS, </a> and <a href="http://en.wikipedia.org/wiki/React_(software)">React.js</a>.</h4>
-<h4>💬 Ask me about <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a> and <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>.</h4>
-<h3>📫 How to reach me: <a href="mailto:vishalpsingh638700@gmail.com">vishalpsingh638700@gmail.com</a></h3>
-<h3>👨‍💻 All of my projects are available at my <a href="https://mevishalpatel-s.github.io/personal-portfolio/" target="_blank">portfolio</a>.</h3>
-<hr>
-<h2>🌐 Socials: </h2>
+<h1 align="center">Hi 👋, I'm Vishal Singh Patel</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<a href="https://instagram.com/mevishalpatel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mevishalspatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/mevishalspatel" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="mailto:vishalpsingh638700@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<hr>
+- 🔭 I’m currently working on [The Novel Bazaar](https://mevishalpatel-s.github.io/the-novel-bazaar/)
 
-<h2>💻 Skills:</h2>
+- 🌱 I’m currently learning **JavaScript, Tailwind CSS and React.js**
 
-<p align="justify">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/Next-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/MySQL-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-</p>
-<hr
-<br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mevishalpatel-s&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+- 👯 I’m looking to collaborate on **Frontend Development**
+
+- 🤝 I’m looking for help with **HTML, CSS**
+
+- 💬 Ask me about **HTML, CSS**
+
+- 📫 How to reach me **vishalpsingh638700@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mevishalspatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mevishalspatel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mevishalspatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mevishalspatel" height="30" width="40" /></a>
+<a href="https://instagram.com/mevishalpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mevishalpatel" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mevishalpatel-s&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=8B949E" alt="GitHub Stats" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mevishalpatel-s&show_icons=true&locale=en&layout=compact" alt="mevishalpatel-s" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mevishalpatel-s&show_icons=true&locale=en" alt="mevishalpatel-s" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mevishalpatel-s&" alt="mevishalpatel-s" /></p>
