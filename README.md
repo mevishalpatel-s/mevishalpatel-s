@@ -43,5 +43,5 @@
 <hr
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mevishalpatel-s&theme=radial" alt="Vishal's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mevishalpatel-s&theme=tokyonight&cache_seconds=1800" alt="Vishal's Streak Stats" />
 </p>
